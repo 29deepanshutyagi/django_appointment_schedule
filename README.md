@@ -2,7 +2,7 @@
 
 
 ```
-git clone https://github.com/sajib1066/django-appointment-schedule.git
+git clone https://github.com/29deepashutyagi/django-appointment-schedule.git
 ```
 ```
 cd event-calendar
